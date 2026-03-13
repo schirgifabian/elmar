@@ -1,5 +1,5 @@
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import { Link } from 'react-router-dom';
-import { Backpack, BookOpen } from 'lucide-react';
 import '../App.css'; // Reusing general styles
 
 export default function RoleSelection() {

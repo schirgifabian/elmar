@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
-import { ArrowLeft, BookOpen, Download, Target, Info, Clock, PlayCircle } from 'lucide-react';
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+import { ArrowLeft, BookOpen, Download, Target, Clock, PlayCircle } from 'lucide-react';
 import '../App.css';
 
 export default function TeacherDashboard() {
